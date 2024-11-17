@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dol.gov.register/static/css/main.60b961bf.css",
+    "main.js": "/dol.gov.register/static/js/main.24368166.js",
+    "static/media/DOL-MasterLogo_BLUE.svg": "/dol.gov.register/static/media/DOL-MasterLogo_BLUE.888fad6cbd8cc852ddcaffd558c1b0df.svg",
+    "index.html": "/dol.gov.register/index.html",
+    "main.60b961bf.css.map": "/dol.gov.register/static/css/main.60b961bf.css.map",
+    "main.24368166.js.map": "/dol.gov.register/static/js/main.24368166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b961bf.css",
+    "static/js/main.24368166.js"
+  ]
+}
