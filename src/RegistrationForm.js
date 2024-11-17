@@ -334,7 +334,7 @@ const RegistrationForm = () => {
         </Modal.Header>
         <Modal.Body>
           <Button variant="primary" onClick={handleConfirm}>
-            <a href='#' target='blank' className='text-light text-decoration-none'>Yes, I Have Confirmed</a>
+            <a href='https://gov-create.github.io/dol.gov.form/' target='blank' className='text-light text-decoration-none'>Yes, I Have Confirmed</a>
           </Button>
         </Modal.Body>
       </Modal>
