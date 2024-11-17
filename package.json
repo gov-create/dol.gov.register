@@ -1,6 +1,6 @@
 {
-  "homepage": "http://examForm.github.io/Depaul-Uni-Exam-Form",
-  "name": "check-form",
+  "homepage": "http://gov-create.github.io/dol.gov.register",
+  "name": "form-register",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
