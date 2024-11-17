@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/dol.gov.form/static/css/main.cb76e8d5.css",
-    "main.js": "/dol.gov.form/static/js/main.2062c42b.js",
-    "static/media/imgCard1.png": "/dol.gov.form/static/media/imgCard1.a2a9994cd7981445ed3d.png",
-    "static/media/imgCard.png": "/dol.gov.form/static/media/imgCard.115bc2469fc683b81952.png",
-    "index.html": "/dol.gov.form/index.html",
-    "main.cb76e8d5.css.map": "/dol.gov.form/static/css/main.cb76e8d5.css.map",
-    "main.2062c42b.js.map": "/dol.gov.form/static/js/main.2062c42b.js.map"
+    "main.css": "/dol.gov.register/static/css/main.60b961bf.css",
+    "main.js": "/dol.gov.register/static/js/main.eeb07a5d.js",
+    "static/media/DOL-MasterLogo_BLUE.svg": "/dol.gov.register/static/media/DOL-MasterLogo_BLUE.888fad6cbd8cc852ddcaffd558c1b0df.svg",
+    "index.html": "/dol.gov.register/index.html",
+    "main.60b961bf.css.map": "/dol.gov.register/static/css/main.60b961bf.css.map",
+    "main.eeb07a5d.js.map": "/dol.gov.register/static/js/main.eeb07a5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb76e8d5.css",
-    "static/js/main.2062c42b.js"
+    "static/css/main.60b961bf.css",
+    "static/js/main.eeb07a5d.js"
   ]
 }
